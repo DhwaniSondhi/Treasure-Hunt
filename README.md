@@ -18,7 +18,7 @@ The map is used by the application to determine if the explorer can move in a ce
 <img src="https://github.com/DhwaniSondhi/Treasure-Hunt/blob/master/output1.PNG" alt="drawing" width="300"/> 
 
 - Indicates success or failure if the treasure was found or not.
-- The map will been updated to indicate how the walk was done. 
+- The map will be updated to indicate how the walk was done. 
 - "+" characters indicate the path that led to the treasure. 
 - "!" characters indicate the tunnels that were tried but did not to lead to a viable path.
 
